@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9679ffe.css",
-    "main.js": "/static/js/main.2cbfd9fd.js",
+    "main.css": "/static/css/main.45586243.css",
+    "main.js": "/static/js/main.454033d6.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.44b86ca439f8dab31570.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.26e27022b8ddcb9d5017.jpg",
@@ -23,10 +23,9 @@
     "static/media/HarshilModh_WebDev.jpg": "/static/media/HarshilModh_WebDev.088d3da854b0a7ee45f3.jpg",
     "static/media/HastiBhalodiya_DesignTeam.jpg": "/static/media/HastiBhalodiya_DesignTeam.67eeee86d65294d1a06e.jpg",
     "static/media/KrishnaPatel_CommunityEngagement.jpg": "/static/media/KrishnaPatel_CommunityEngagement.2009c1a4118dd7298bc8.jpg",
+    "static/media/prizes.png": "/static/media/prizes.d6dcfab9847b4844fe30.png",
     "static/media/PranshuPancholi_Logistics.jpg": "/static/media/PranshuPancholi_Logistics.9fc0e4e38e4f01b17921.jpg",
     "static/media/wave-desktop.png": "/static/media/wave-desktop.f00d9a4005ab3934db44.png",
-    "static/media/MACHINELEARNING.png": "/static/media/MACHINELEARNING.d01d5058c8743260f811.png",
-    "static/media/nlp.png": "/static/media/nlp.9554d735d3c4ce8f27b8.png",
     "static/media/KeyurChaniyara_WebDev.jpg": "/static/media/KeyurChaniyara_WebDev.5c4c88913c1c93e8b27c.jpg",
     "static/media/DevPatel_OutReach.PNG": "/static/media/DevPatel_OutReach.10a334f21e99ecb9a2a1.PNG",
     "static/media/Vikas_Pal_CommunityEngagement.jpg": "/static/media/Vikas_Pal_CommunityEngagement.7034c083672be2ed4d81.jpg",
@@ -89,11 +88,11 @@
     "index.html": "/index.html",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.a9679ffe.css.map": "/static/css/main.a9679ffe.css.map",
-    "main.2cbfd9fd.js.map": "/static/js/main.2cbfd9fd.js.map"
+    "main.45586243.css.map": "/static/css/main.45586243.css.map",
+    "main.454033d6.js.map": "/static/js/main.454033d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9679ffe.css",
-    "static/js/main.2cbfd9fd.js"
+    "static/css/main.45586243.css",
+    "static/js/main.454033d6.js"
   ]
 }
