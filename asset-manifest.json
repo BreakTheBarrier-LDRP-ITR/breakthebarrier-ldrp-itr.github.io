@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6bc0602f.css",
-    "main.js": "/static/js/main.cc047331.js",
+    "main.css": "/static/css/main.4f80e7c2.css",
+    "main.js": "/static/js/main.ca315974.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.44b86ca439f8dab31570.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.26e27022b8ddcb9d5017.jpg",
@@ -17,7 +17,6 @@
     "static/media/Vatsal mavani.jpg": "/static/media/Vatsal mavani.0146df44bf092d07d5b3.jpg",
     "static/media/Rajput Harshilsinh_Web development.jpg": "/static/media/Rajput Harshilsinh_Web development.70098f984e6c48141b36.jpg",
     "static/media/MadhveshKanjariya_OutreachCoreTeam.jpg": "/static/media/MadhveshKanjariya_OutreachCoreTeam.35da723b8aff1a1eaf37.jpg",
-    "static/media/JAIVIN GAJERA_WEB DEVELOPMENT .jpeg": "/static/media/JAIVIN GAJERA_WEB DEVELOPMENT .12f34bb0bf7bea303726.jpeg",
     "static/media/Oveskhan Pathan_outreach.jpg": "/static/media/Oveskhan Pathan_outreach.942bf04156f587c6d8f3.jpg",
     "static/media/NiravPanchal_Logistics.jpg": "/static/media/NiravPanchal_Logistics.1cc6c33025e8879a2f08.jpg",
     "static/media/HarshilModh_WebDev.jpg": "/static/media/HarshilModh_WebDev.088d3da854b0a7ee45f3.jpg",
@@ -75,7 +74,6 @@
     "static/media/PragatKholia_ContentWriting.jpg": "/static/media/PragatKholia_ContentWriting.4a1a72d0f019c64eef05.jpg",
     "static/media/ldrp_logo.png": "/static/media/ldrp_logo.8d75ed5682122b6a17ec.png",
     "static/media/KrishitaViroja_Logistics.jpeg": "/static/media/KrishitaViroja_Logistics.86009574c2df21553947.jpeg",
-    "static/media/ChintanPatel_CommunityEngagement.jpg": "/static/media/ChintanPatel_CommunityEngagement.428892e12c8184635934.jpg",
     "static/media/Janviprajapati_logistic.jpg": "/static/media/Janviprajapati_logistic.1153a1c77dd47a04ac3b.jpg",
     "static/media/gold_trophy.jpg": "/static/media/gold_trophy.42c0dc4289a864b4fe64.jpg",
     "static/media/Diya shah_Community Engagement.jpg": "/static/media/Diya shah_Community Engagement.c879caf0a601772a6431.jpg",
@@ -101,11 +99,11 @@
     "static/media/date.svg": "/static/media/date.150360bc673579dbd079.svg",
     "static/media/next.svg": "/static/media/next.9c2e1d745761514fe1be886157dc1120.svg",
     "static/media/prev.svg": "/static/media/prev.0fdd7ad6536bbceee6ad71bbdf3d4ec3.svg",
-    "main.6bc0602f.css.map": "/static/css/main.6bc0602f.css.map",
-    "main.cc047331.js.map": "/static/js/main.cc047331.js.map"
+    "main.4f80e7c2.css.map": "/static/css/main.4f80e7c2.css.map",
+    "main.ca315974.js.map": "/static/js/main.ca315974.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bc0602f.css",
-    "static/js/main.cc047331.js"
+    "static/css/main.4f80e7c2.css",
+    "static/js/main.ca315974.js"
   ]
 }
