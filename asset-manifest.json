@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f80e7c2.css",
-    "main.js": "/static/js/main.ca315974.js",
+    "main.css": "/static/css/main.c7fdb5d9.css",
+    "main.js": "/static/js/main.2d617df9.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.44b86ca439f8dab31570.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.26e27022b8ddcb9d5017.jpg",
@@ -12,6 +12,7 @@
     "static/media/AdityaThakar_Logistics.jpg": "/static/media/AdityaThakar_Logistics.1aff65777c20ea86f8a4.jpg",
     "static/media/SanjayKriplani_Logistics.jpg": "/static/media/SanjayKriplani_Logistics.0fd69053eb435cfbfc90.jpg",
     "static/media/KhushbooKolhe_ContentWriting.jpg": "/static/media/KhushbooKolhe_ContentWriting.d94a93b39a503c341c58.jpg",
+    "static/media/Workshop-Shravan-Page.png": "/static/media/Workshop-Shravan-Page.2ff411bd145d11aa2f50.png",
     "static/media/AakashMaurya_OutreachCoreTeam.jpeg": "/static/media/AakashMaurya_OutreachCoreTeam.54324106d8523e0d6323.jpeg",
     "static/media/RiyaSonara_ContentWriting.jpg": "/static/media/RiyaSonara_ContentWriting.f26351e53d863063a52d.jpg",
     "static/media/Vatsal mavani.jpg": "/static/media/Vatsal mavani.0146df44bf092d07d5b3.jpg",
@@ -20,13 +21,14 @@
     "static/media/Oveskhan Pathan_outreach.jpg": "/static/media/Oveskhan Pathan_outreach.942bf04156f587c6d8f3.jpg",
     "static/media/NiravPanchal_Logistics.jpg": "/static/media/NiravPanchal_Logistics.1cc6c33025e8879a2f08.jpg",
     "static/media/HarshilModh_WebDev.jpg": "/static/media/HarshilModh_WebDev.088d3da854b0a7ee45f3.jpg",
+    "static/media/Workshop-Shravan.png": "/static/media/Workshop-Shravan.075b0ecc2b6986d183db.png",
     "static/media/HastiBhalodiya_DesignTeam.jpg": "/static/media/HastiBhalodiya_DesignTeam.67eeee86d65294d1a06e.jpg",
-    "static/media/Workshop-Shravan.png": "/static/media/Workshop-Shravan.900b166a53efedf67fff.png",
-    "static/media/Workshop-JOGANDEEP.png": "/static/media/Workshop-JOGANDEEP.a28d85d326bac32d47df.png",
+    "static/media/Workshop-JOGANDEEP.png": "/static/media/Workshop-JOGANDEEP.1acb9a4dafb260db81e3.png",
     "static/media/KrishnaPatel_CommunityEngagement.jpg": "/static/media/KrishnaPatel_CommunityEngagement.2009c1a4118dd7298bc8.jpg",
     "static/media/PranshuPancholi_Logistics.jpg": "/static/media/PranshuPancholi_Logistics.9fc0e4e38e4f01b17921.jpg",
-    "static/media/Workshop-Rahul.png": "/static/media/Workshop-Rahul.45b81efde3c02c7d0729.png",
     "static/media/wave-desktop.png": "/static/media/wave-desktop.f00d9a4005ab3934db44.png",
+    "static/media/Workshop-Rahul.png": "/static/media/Workshop-Rahul.c05c3f27dd4052acb966.png",
+    "static/media/Workshop-Ankit.png": "/static/media/Workshop-Ankit.e47fd96d43a16b5348aa.png",
     "static/media/machine learning.png": "/static/media/machine learning.bd2875517ed20af8748c.png",
     "static/media/nlp final.png": "/static/media/nlp final.5d1f6753578b89e59c97.png",
     "static/media/KeyurChaniyara_WebDev.jpg": "/static/media/KeyurChaniyara_WebDev.5c4c88913c1c93e8b27c.jpg",
@@ -42,7 +44,6 @@
     "static/media/ManavRijwani_Logistics.jpeg": "/static/media/ManavRijwani_Logistics.e7a264c6d8d46f18387a.jpeg",
     "static/media/DhyeyPatel_graphicteam.jpg": "/static/media/DhyeyPatel_graphicteam.9b441bfe91cea839effd.jpg",
     "static/media/ParthVora_CommunityEngagement.jpg": "/static/media/ParthVora_CommunityEngagement.677a6a17da964a6f8fe5.jpg",
-    "static/media/Workshop-Ankit.jpg": "/static/media/Workshop-Ankit.1505c1e5258653955b38.jpg",
     "static/media/ShyamSagothia_Logistics.jpg": "/static/media/ShyamSagothia_Logistics.758a2b7025461c1794d3.jpg",
     "static/media/YagniShah_ContentWriting.jpg": "/static/media/YagniShah_ContentWriting.3e08352df45795018807.jpg",
     "static/media/Korat Dishant _ design.jpg": "/static/media/Korat Dishant _ design.f28f880aad2fb6b046d6.jpg",
@@ -57,6 +58,7 @@
     "static/media/ar vr-final.png": "/static/media/ar vr-final.5bb6af7f1b01152c7abc.png",
     "static/media/creative-final.png": "/static/media/creative-final.e87da1016e4a76e903c0.png",
     "static/media/edutech-final.png": "/static/media/edutech-final.ad9255c0e2e097dfff9c.png",
+    "static/media/echo3d.png": "/static/media/echo3d.f0ee3c24297a9b04691b.png",
     "static/media/PrachiJethava_WebDev.jpeg": "/static/media/PrachiJethava_WebDev.c4d335d36859c6a6d7dd.jpeg",
     "static/media/ShlokPatel_logistics.jpeg": "/static/media/ShlokPatel_logistics.fda65b23f698a06093fd.jpeg",
     "static/media/JainShreyasSunilkumar_CommunityEngagement.jpg": "/static/media/JainShreyasSunilkumar_CommunityEngagement.51e86248ff2ebae02b2d.jpg",
@@ -72,6 +74,7 @@
     "static/media/team-profile-sample.png": "/static/media/team-profile-sample.1a46468ac9a2d452451c.png",
     "static/media/cloud-based-final.png": "/static/media/cloud-based-final.e8ad5a84790d4b1f64d3.png",
     "static/media/PragatKholia_ContentWriting.jpg": "/static/media/PragatKholia_ContentWriting.4a1a72d0f019c64eef05.jpg",
+    "static/media/aspire4her.png": "/static/media/aspire4her.cd38b75d6d49b84a2ee9.png",
     "static/media/ldrp_logo.png": "/static/media/ldrp_logo.8d75ed5682122b6a17ec.png",
     "static/media/KrishitaViroja_Logistics.jpeg": "/static/media/KrishitaViroja_Logistics.86009574c2df21553947.jpeg",
     "static/media/Janviprajapati_logistic.jpg": "/static/media/Janviprajapati_logistic.1153a1c77dd47a04ac3b.jpg",
@@ -99,11 +102,11 @@
     "static/media/date.svg": "/static/media/date.150360bc673579dbd079.svg",
     "static/media/next.svg": "/static/media/next.9c2e1d745761514fe1be886157dc1120.svg",
     "static/media/prev.svg": "/static/media/prev.0fdd7ad6536bbceee6ad71bbdf3d4ec3.svg",
-    "main.4f80e7c2.css.map": "/static/css/main.4f80e7c2.css.map",
-    "main.ca315974.js.map": "/static/js/main.ca315974.js.map"
+    "main.c7fdb5d9.css.map": "/static/css/main.c7fdb5d9.css.map",
+    "main.2d617df9.js.map": "/static/js/main.2d617df9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f80e7c2.css",
-    "static/js/main.ca315974.js"
+    "static/css/main.c7fdb5d9.css",
+    "static/js/main.2d617df9.js"
   ]
 }
