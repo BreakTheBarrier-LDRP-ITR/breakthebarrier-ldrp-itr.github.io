@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c7fdb5d9.css",
-    "main.js": "/static/js/main.2d617df9.js",
+    "main.js": "/static/js/main.932518a6.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.44b86ca439f8dab31570.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.26e27022b8ddcb9d5017.jpg",
@@ -10,25 +10,28 @@
     "static/media/Sarthakjadav_CommunityEngagement.jpg": "/static/media/Sarthakjadav_CommunityEngagement.58667213733c739edcf5.jpg",
     "static/media/PatelNijal_CommunityEngagement.jpg": "/static/media/PatelNijal_CommunityEngagement.444e3aec4117f0bb906e.jpg",
     "static/media/AdityaThakar_Logistics.jpg": "/static/media/AdityaThakar_Logistics.1aff65777c20ea86f8a4.jpg",
+    "static/media/Workshop-Shravan.png": "/static/media/Workshop-Shravan.d373679bad75905a1e68.png",
     "static/media/SanjayKriplani_Logistics.jpg": "/static/media/SanjayKriplani_Logistics.0fd69053eb435cfbfc90.jpg",
     "static/media/KhushbooKolhe_ContentWriting.jpg": "/static/media/KhushbooKolhe_ContentWriting.d94a93b39a503c341c58.jpg",
-    "static/media/Workshop-Shravan-Page.png": "/static/media/Workshop-Shravan-Page.2ff411bd145d11aa2f50.png",
     "static/media/AakashMaurya_OutreachCoreTeam.jpeg": "/static/media/AakashMaurya_OutreachCoreTeam.54324106d8523e0d6323.jpeg",
     "static/media/RiyaSonara_ContentWriting.jpg": "/static/media/RiyaSonara_ContentWriting.f26351e53d863063a52d.jpg",
+    "static/media/Workshop-Joban.png": "/static/media/Workshop-Joban.282687b0a2183f81cade.png",
     "static/media/Vatsal mavani.jpg": "/static/media/Vatsal mavani.0146df44bf092d07d5b3.jpg",
     "static/media/Rajput Harshilsinh_Web development.jpg": "/static/media/Rajput Harshilsinh_Web development.70098f984e6c48141b36.jpg",
     "static/media/MadhveshKanjariya_OutreachCoreTeam.jpg": "/static/media/MadhveshKanjariya_OutreachCoreTeam.35da723b8aff1a1eaf37.jpg",
     "static/media/Oveskhan Pathan_outreach.jpg": "/static/media/Oveskhan Pathan_outreach.942bf04156f587c6d8f3.jpg",
     "static/media/NiravPanchal_Logistics.jpg": "/static/media/NiravPanchal_Logistics.1cc6c33025e8879a2f08.jpg",
     "static/media/HarshilModh_WebDev.jpg": "/static/media/HarshilModh_WebDev.088d3da854b0a7ee45f3.jpg",
-    "static/media/Workshop-Shravan.png": "/static/media/Workshop-Shravan.075b0ecc2b6986d183db.png",
+    "static/media/Workshop-Shravan-event.png": "/static/media/Workshop-Shravan-event.93c72d48d589c0d44cc8.png",
     "static/media/HastiBhalodiya_DesignTeam.jpg": "/static/media/HastiBhalodiya_DesignTeam.67eeee86d65294d1a06e.jpg",
-    "static/media/Workshop-JOGANDEEP.png": "/static/media/Workshop-JOGANDEEP.1acb9a4dafb260db81e3.png",
+    "static/media/Workshop-Rahul.png": "/static/media/Workshop-Rahul.a21cd3822141a8acaecb.png",
+    "static/media/Workshop-Ankit.png": "/static/media/Workshop-Ankit.20abdab01d3cf921b0a2.png",
+    "static/media/Workshop-JOGANDEEP-event.png": "/static/media/Workshop-JOGANDEEP-event.757d750e2e06cbaf9441.png",
     "static/media/KrishnaPatel_CommunityEngagement.jpg": "/static/media/KrishnaPatel_CommunityEngagement.2009c1a4118dd7298bc8.jpg",
     "static/media/PranshuPancholi_Logistics.jpg": "/static/media/PranshuPancholi_Logistics.9fc0e4e38e4f01b17921.jpg",
     "static/media/wave-desktop.png": "/static/media/wave-desktop.f00d9a4005ab3934db44.png",
-    "static/media/Workshop-Rahul.png": "/static/media/Workshop-Rahul.c05c3f27dd4052acb966.png",
-    "static/media/Workshop-Ankit.png": "/static/media/Workshop-Ankit.e47fd96d43a16b5348aa.png",
+    "static/media/Workshop-Rahul-event.png": "/static/media/Workshop-Rahul-event.63bf7bfa1150d80541df.png",
+    "static/media/Workshop-Ankit-event.png": "/static/media/Workshop-Ankit-event.f18667223bdeb0a2b7c9.png",
     "static/media/machine learning.png": "/static/media/machine learning.bd2875517ed20af8748c.png",
     "static/media/nlp final.png": "/static/media/nlp final.5d1f6753578b89e59c97.png",
     "static/media/KeyurChaniyara_WebDev.jpg": "/static/media/KeyurChaniyara_WebDev.5c4c88913c1c93e8b27c.jpg",
@@ -103,10 +106,10 @@
     "static/media/next.svg": "/static/media/next.9c2e1d745761514fe1be886157dc1120.svg",
     "static/media/prev.svg": "/static/media/prev.0fdd7ad6536bbceee6ad71bbdf3d4ec3.svg",
     "main.c7fdb5d9.css.map": "/static/css/main.c7fdb5d9.css.map",
-    "main.2d617df9.js.map": "/static/js/main.2d617df9.js.map"
+    "main.932518a6.js.map": "/static/js/main.932518a6.js.map"
   },
   "entrypoints": [
     "static/css/main.c7fdb5d9.css",
-    "static/js/main.2d617df9.js"
+    "static/js/main.932518a6.js"
   ]
 }
