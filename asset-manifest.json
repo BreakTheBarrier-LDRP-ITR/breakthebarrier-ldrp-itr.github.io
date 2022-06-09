@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9800bfea.css",
-    "main.js": "/static/js/main.ad30aad9.js",
+    "main.js": "/static/js/main.c3ef979c.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.44b86ca439f8dab31570.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.26e27022b8ddcb9d5017.jpg",
@@ -25,7 +25,8 @@
     "static/media/Oveskhan Pathan_outreach.jpg": "/static/media/Oveskhan Pathan_outreach.942bf04156f587c6d8f3.jpg",
     "static/media/Workshop-Prince.png": "/static/media/Workshop-Prince.b69121348dcca573b805.png",
     "static/media/NiravPanchal_Logistics.jpg": "/static/media/NiravPanchal_Logistics.1cc6c33025e8879a2f08.jpg",
-    "static/media/Workshop-Ali.png": "/static/media/Workshop-Ali.b3d0fe0ccb4c824ea378.png",
+    "static/media/Workshop-Ali.png": "/static/media/Workshop-Ali.6097e34bd87c9e246d0a.png",
+    "static/media/Shlok_logistics.jpg": "/static/media/Shlok_logistics.cad2a7c95be2ba86b1c6.jpg",
     "static/media/HarshilModh_WebDev.jpg": "/static/media/HarshilModh_WebDev.088d3da854b0a7ee45f3.jpg",
     "static/media/Workshop-Shravan-event.png": "/static/media/Workshop-Shravan-event.93c72d48d589c0d44cc8.png",
     "static/media/HastiBhalodiya_DesignTeam.jpg": "/static/media/HastiBhalodiya_DesignTeam.67eeee86d65294d1a06e.jpg",
@@ -37,7 +38,7 @@
     "static/media/Workshop-Atul-event.png": "/static/media/Workshop-Atul-event.0875f042d51b31200c60.png",
     "static/media/Workshop-tanay-event.png": "/static/media/Workshop-tanay-event.626005372627b1c0bb30.png",
     "static/media/Workshop-tanay.png": "/static/media/Workshop-tanay.626005372627b1c0bb30.png",
-    "static/media/Workshop-Ali-event.png": "/static/media/Workshop-Ali-event.faea9828ef905bc96b3d.png",
+    "static/media/Workshop-Ali-event.png": "/static/media/Workshop-Ali-event.2602c7722905cb0061ae.png",
     "static/media/Workshop-Luis-event.png": "/static/media/Workshop-Luis-event.8d46802754a26541586b.png",
     "static/media/Workshop-Prince-event.png": "/static/media/Workshop-Prince-event.cec5ae2cdf8019d8485c.png",
     "static/media/PranshuPancholi_Logistics.jpg": "/static/media/PranshuPancholi_Logistics.9fc0e4e38e4f01b17921.jpg",
@@ -49,6 +50,7 @@
     "static/media/Udit.png": "/static/media/Udit.f5f31af92fa3c9837fa6.png",
     "static/media/Deepanshu.png": "/static/media/Deepanshu.de36499459655d4a4261.png",
     "static/media/KeyurChaniyara_WebDev.jpg": "/static/media/KeyurChaniyara_WebDev.5c4c88913c1c93e8b27c.jpg",
+    "static/media/SaborniDas.png": "/static/media/SaborniDas.0632b92125b556703a1d.png",
     "static/media/DevPatel_OutReach.PNG": "/static/media/DevPatel_OutReach.10a334f21e99ecb9a2a1.PNG",
     "static/media/Gourav.png": "/static/media/Gourav.d8b7f301c2e1ad0c3c6e.png",
     "static/media/Vikas_Pal_CommunityEngagement.jpg": "/static/media/Vikas_Pal_CommunityEngagement.7034c083672be2ed4d81.jpg",
@@ -84,7 +86,6 @@
     "static/media/edutech-final.png": "/static/media/edutech-final.ad9255c0e2e097dfff9c.png",
     "static/media/echo3d.png": "/static/media/echo3d.f0ee3c24297a9b04691b.png",
     "static/media/PrachiJethava_WebDev.jpeg": "/static/media/PrachiJethava_WebDev.c4d335d36859c6a6d7dd.jpeg",
-    "static/media/ShlokPatel_logistics.jpeg": "/static/media/ShlokPatel_logistics.fda65b23f698a06093fd.jpeg",
     "static/media/JainShreyasSunilkumar_CommunityEngagement.jpg": "/static/media/JainShreyasSunilkumar_CommunityEngagement.51e86248ff2ebae02b2d.jpg",
     "static/media/down.gif": "/static/media/down.71ec3018acb101196b8e.gif",
     "static/media/fintech final.png": "/static/media/fintech final.006691c86fa48ffaf5ba.png",
@@ -130,10 +131,10 @@
     "static/media/next.svg": "/static/media/next.9c2e1d745761514fe1be886157dc1120.svg",
     "static/media/prev.svg": "/static/media/prev.0fdd7ad6536bbceee6ad71bbdf3d4ec3.svg",
     "main.9800bfea.css.map": "/static/css/main.9800bfea.css.map",
-    "main.ad30aad9.js.map": "/static/js/main.ad30aad9.js.map"
+    "main.c3ef979c.js.map": "/static/js/main.c3ef979c.js.map"
   },
   "entrypoints": [
     "static/css/main.9800bfea.css",
-    "static/js/main.ad30aad9.js"
+    "static/js/main.c3ef979c.js"
   ]
 }
