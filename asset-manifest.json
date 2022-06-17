@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc165df3.css",
-    "main.js": "/static/js/main.d0872b64.js",
+    "main.js": "/static/js/main.687c673b.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.44b86ca439f8dab31570.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.26e27022b8ddcb9d5017.jpg",
@@ -131,10 +131,10 @@
     "static/media/next.svg": "/static/media/next.ddb58d7ab2c25c4085d6ee789c97b1f0.svg",
     "static/media/prev.svg": "/static/media/prev.3965ea8293e1303960d17c739c785895.svg",
     "main.bc165df3.css.map": "/static/css/main.bc165df3.css.map",
-    "main.d0872b64.js.map": "/static/js/main.d0872b64.js.map"
+    "main.687c673b.js.map": "/static/js/main.687c673b.js.map"
   },
   "entrypoints": [
     "static/css/main.bc165df3.css",
-    "static/js/main.d0872b64.js"
+    "static/js/main.687c673b.js"
   ]
 }
