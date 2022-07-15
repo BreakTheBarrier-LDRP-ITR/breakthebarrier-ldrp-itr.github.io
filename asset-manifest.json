@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc165df3.css",
-    "main.js": "/static/js/main.687c673b.js",
+    "main.css": "/static/css/main.9800bfea.css",
+    "main.js": "/static/js/main.3491fc1b.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.44b86ca439f8dab31570.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.26e27022b8ddcb9d5017.jpg",
@@ -120,21 +120,21 @@
     "static/media/xyz logo final.png": "/static/media/xyz logo final.6bc1e73c386c85a419d3.png",
     "static/media/doodle.png": "/static/media/doodle.6cc7f39c4eafc11c22d4.png",
     "static/media/ksvlogo.png": "/static/media/ksvlogo.01a22a747dd5009387a7.png",
-    "static/media/hexagon.svg": "/static/media/hexagon.ac3555b44578eda34cbe80d104505028.svg",
-    "index.html": "/index.html",
+    "static/media/hexagon.svg": "/static/media/hexagon.fbcfe44856b7cc07890ca8f90172ccbc.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "index.html": "/index.html",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/location.svg": "/static/media/location.b089b3327d8e3c3048a4.svg",
-    "static/media/date.svg": "/static/media/date.a57601ed178dc06259c3.svg",
-    "static/media/next.svg": "/static/media/next.ddb58d7ab2c25c4085d6ee789c97b1f0.svg",
-    "static/media/prev.svg": "/static/media/prev.3965ea8293e1303960d17c739c785895.svg",
-    "main.bc165df3.css.map": "/static/css/main.bc165df3.css.map",
-    "main.687c673b.js.map": "/static/js/main.687c673b.js.map"
+    "static/media/location.svg": "/static/media/location.cc7ef2e389ba99f6ee9f.svg",
+    "static/media/date.svg": "/static/media/date.150360bc673579dbd079.svg",
+    "static/media/next.svg": "/static/media/next.9c2e1d745761514fe1be886157dc1120.svg",
+    "static/media/prev.svg": "/static/media/prev.0fdd7ad6536bbceee6ad71bbdf3d4ec3.svg",
+    "main.9800bfea.css.map": "/static/css/main.9800bfea.css.map",
+    "main.3491fc1b.js.map": "/static/js/main.3491fc1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc165df3.css",
-    "static/js/main.687c673b.js"
+    "static/css/main.9800bfea.css",
+    "static/js/main.3491fc1b.js"
   ]
 }
