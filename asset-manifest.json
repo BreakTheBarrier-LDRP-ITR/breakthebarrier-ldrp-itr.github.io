@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.36d508ec.css",
-    "main.js": "/static/js/main.75b09a98.js",
+    "main.js": "/static/js/main.46d47986.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.d21a1b57e2c6ed6df5bd.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.583d56495df1488f6548.jpg",
@@ -23,6 +23,7 @@
     "static/media/Workshop-Joban.png": "/static/media/Workshop-Joban.282687b0a2183f81cade.png",
     "static/media/Vatsal mavani.jpg": "/static/media/Vatsal mavani.0146df44bf092d07d5b3.jpg",
     "static/media/Workshop-Nikhil.png": "/static/media/Workshop-Nikhil.379ae8d6eea0530b3f51.png",
+    "static/media/Workshop-KESAV AND AASAWARI.png": "/static/media/Workshop-KESAV AND AASAWARI.79581cb6f7e2565d8ce1.png",
     "static/media/Workshop-Atul.png": "/static/media/Workshop-Atul.bd9c14aca2cd96ad4cf5.png",
     "static/media/Workshop-Wesley.png": "/static/media/Workshop-Wesley.6f94d8b3a12a010cebc1.png",
     "static/media/Rajput Harshilsinh_Web development.jpg": "/static/media/Rajput Harshilsinh_Web development.f7f8f863601beb4fc6d0.jpg",
@@ -40,6 +41,7 @@
     "static/media/Workshop-Saborni-event.png": "/static/media/Workshop-Saborni-event.146075e34e7e09ef0fd3.png",
     "static/media/HarshilModh_WebDev.jpg": "/static/media/HarshilModh_WebDev.088d3da854b0a7ee45f3.jpg",
     "static/media/Workshop-Khush.png": "/static/media/Workshop-Khush.a40e208bef13449a45d4.png",
+    "static/media/Workshop-Ishika-final.png": "/static/media/Workshop-Ishika-final.0497f167781746484ff4.png",
     "static/media/Workshop-Shravan-event.png": "/static/media/Workshop-Shravan-event.93c72d48d589c0d44cc8.png",
     "static/media/KrishnaPatel_CommunityEngagement.heic": "/static/media/KrishnaPatel_CommunityEngagement.4640254e508d95a79568.heic",
     "static/media/HastiBhalodiya_DesignTeam.jpg": "/static/media/HastiBhalodiya_DesignTeam.1e6af38b3774486cb18c.jpg",
@@ -51,6 +53,7 @@
     "static/media/Workshop-Nikhil-event.png": "/static/media/Workshop-Nikhil-event.47a5f3a4a77cfb5e2d6c.png",
     "static/media/Workshop-Wesley-event.png": "/static/media/Workshop-Wesley-event.b9339464328ee8af112b.png",
     "static/media/Workshop-tanay-event.png": "/static/media/Workshop-tanay-event.96f48bd7c1f6e9dc9f0a.png",
+    "static/media/Workshop-Kesav & Aasawari-event.png": "/static/media/Workshop-Kesav & Aasawari-event.cb87a1a88f4b9d02e1e0.png",
     "static/media/Workshop-Ali-event.png": "/static/media/Workshop-Ali-event.2602c7722905cb0061ae.png",
     "static/media/Workshop-Luis-event.png": "/static/media/Workshop-Luis-event.8d46802754a26541586b.png",
     "static/media/Workshop-Prince-event.png": "/static/media/Workshop-Prince-event.cec5ae2cdf8019d8485c.png",
@@ -58,6 +61,7 @@
     "static/media/wave-desktop.png": "/static/media/wave-desktop.f00d9a4005ab3934db44.png",
     "static/media/Workshop-Rahul-event.png": "/static/media/Workshop-Rahul-event.63bf7bfa1150d80541df.png",
     "static/media/Workshop-Ankit-event.png": "/static/media/Workshop-Ankit-event.f18667223bdeb0a2b7c9.png",
+    "static/media/Workshop-Ishika-event.png": "/static/media/Workshop-Ishika-event.a2eece906b1ae4681fc6.png",
     "static/media/Workshop-Khush-event.png": "/static/media/Workshop-Khush-event.947828f602220d0dea11.png",
     "static/media/machine learning.png": "/static/media/machine learning.bd2875517ed20af8748c.png",
     "static/media/nlp final.png": "/static/media/nlp final.5d1f6753578b89e59c97.png",
@@ -162,10 +166,10 @@
     "static/media/next.svg": "/static/media/next.9c2e1d745761514fe1be886157dc1120.svg",
     "static/media/prev.svg": "/static/media/prev.0fdd7ad6536bbceee6ad71bbdf3d4ec3.svg",
     "main.36d508ec.css.map": "/static/css/main.36d508ec.css.map",
-    "main.75b09a98.js.map": "/static/js/main.75b09a98.js.map"
+    "main.46d47986.js.map": "/static/js/main.46d47986.js.map"
   },
   "entrypoints": [
     "static/css/main.36d508ec.css",
-    "static/js/main.75b09a98.js"
+    "static/js/main.46d47986.js"
   ]
 }
