@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.18d39d7a.css",
-    "main.js": "/static/js/main.491090fb.js",
+    "main.css": "/static/css/main.1c03de43.css",
+    "main.js": "/static/js/main.144a0bd2.js",
     "static/media/AayushPatel_CommunityEngagement.jpg": "/static/media/AayushPatel_CommunityEngagement.d21a1b57e2c6ed6df5bd.jpg",
     "static/media/Karina Vaishali Mehta_CommunityEngagement.PNG": "/static/media/Karina Vaishali Mehta_CommunityEngagement.9c387637b576efee4296.PNG",
     "static/media/VandanGohil_Design.jpg": "/static/media/VandanGohil_Design.583d56495df1488f6548.jpg",
@@ -21,7 +21,6 @@
     "static/media/ExpertTalks-Shreya.png": "/static/media/ExpertTalks-Shreya.d30ad87a8311faf99f0d.png",
     "static/media/RiyaSonara_ContentWriting.jpg": "/static/media/RiyaSonara_ContentWriting.0ca0a524f2f94d01be8c.jpg",
     "static/media/Workshop-Joban.png": "/static/media/Workshop-Joban.282687b0a2183f81cade.png",
-    "static/media/Vatsal mavani.jpg": "/static/media/Vatsal mavani.0146df44bf092d07d5b3.jpg",
     "static/media/Workshop-Nikhil.png": "/static/media/Workshop-Nikhil.379ae8d6eea0530b3f51.png",
     "static/media/Workshop-KESAV AND AASAWARI.png": "/static/media/Workshop-KESAV AND AASAWARI.79581cb6f7e2565d8ce1.png",
     "static/media/Workshop-Atul.png": "/static/media/Workshop-Atul.bd9c14aca2cd96ad4cf5.png",
@@ -120,6 +119,7 @@
     "static/media/sponsor-image.png": "/static/media/sponsor-image.c846fbab456810d138df.png",
     "static/media/team-profile-sample.png": "/static/media/team-profile-sample.1a46468ac9a2d452451c.png",
     "static/media/cloud-based-final.png": "/static/media/cloud-based-final.e8ad5a84790d4b1f64d3.png",
+    "static/media/Vatsal Mavani.jpeg": "/static/media/Vatsal Mavani.e0110e6541fc771829dd.jpeg",
     "static/media/CE.png": "/static/media/CE.f55684ec43b93a5cefb5.png",
     "static/media/PragatKholia_ContentWriting.jpg": "/static/media/PragatKholia_ContentWriting.4a1a72d0f019c64eef05.jpg",
     "static/media/aspire4her.png": "/static/media/aspire4her.cd38b75d6d49b84a2ee9.png",
@@ -166,11 +166,11 @@
     "static/media/date.svg": "/static/media/date.150360bc673579dbd079.svg",
     "static/media/next.svg": "/static/media/next.9c2e1d745761514fe1be886157dc1120.svg",
     "static/media/prev.svg": "/static/media/prev.0fdd7ad6536bbceee6ad71bbdf3d4ec3.svg",
-    "main.18d39d7a.css.map": "/static/css/main.18d39d7a.css.map",
-    "main.491090fb.js.map": "/static/js/main.491090fb.js.map"
+    "main.1c03de43.css.map": "/static/css/main.1c03de43.css.map",
+    "main.144a0bd2.js.map": "/static/js/main.144a0bd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.18d39d7a.css",
-    "static/js/main.491090fb.js"
+    "static/css/main.1c03de43.css",
+    "static/js/main.144a0bd2.js"
   ]
 }
