@@ -55,7 +55,7 @@ export const Home = () => {
             Code recursively and let your idea change the world.
           </p>
 
-          <a href="https://docs.google.com/forms/d/1573254FWIMd8AO2q3hHe3zu6Kb-iGYBU9VWjmEmjS1k/viewform?edit_requested=true" target="_blank">
+          {/* <a href="https://docs.google.com/forms/d/1573254FWIMd8AO2q3hHe3zu6Kb-iGYBU9VWjmEmjS1k/viewform?edit_requested=true" target="_blank">
             <button
               style={{
                 maxWidth: '250px',
@@ -65,7 +65,7 @@ export const Home = () => {
             >
               Register as Participant
             </button>
-          </a>
+          </a> */}
          
           <a href="https://breakthebarrier.devpost.com/" target="_blank">
             <button
